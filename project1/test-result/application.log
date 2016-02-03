@@ -1,0 +1,14 @@
+20 ม.ค. 2559 15:03:15,673 INFO  ~ Starting D:\playproject\project1
+20 ม.ค. 2559 15:03:15,678 INFO  ~ Module gae is available (C:\play\modules\gae-1.4)
+20 ม.ค. 2559 15:03:15,681 INFO  ~ Module siena is available (C:\play\modules\siena-2.0.4)
+20 ม.ค. 2559 15:03:16,304 WARN  ~ 
+20 ม.ค. 2559 15:03:16,305 WARN  ~ Google App Engine module
+20 ม.ค. 2559 15:03:16,307 WARN  ~ ~~~~~~~~~~~~~~~~~~~~~~~
+20 ม.ค. 2559 15:03:16,309 WARN  ~ No Google App Engine environment found. Setting up a development environement
+20 ม.ค. 2559 15:03:16,325 WARN  ~ Don't forget to define your GAE application id in the 'war/WEB-INF/appengine-web.xml' file
+20 ม.ค. 2559 15:03:16,329 WARN  ~ 
+20 ม.ค. 2559 15:03:16,330 INFO  ~ Detected that plugin 'play.modules.gae.GAEPlugin@3b769b4a' disabled the plugin 'play.jobs.JobsPlugin@6f195929' the old way - should use Play.disablePlugin()
+20 ม.ค. 2559 15:03:16,340 WARN  ~ You're running Play! in DEV mode
+20 ม.ค. 2559 15:03:16,421 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+20 ม.ค. 2559 15:03:56,721 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+20 ม.ค. 2559 15:03:56,788 INFO  ~ Application 'project1' is now started !
